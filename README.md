@@ -1,3 +1,3 @@
-#Kokoa-Challenge
+# Kokoa-Challenge
 
-html & css is fun..?
+HTML & CSS is fun..?
